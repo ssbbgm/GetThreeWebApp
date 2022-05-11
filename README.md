@@ -25,7 +25,7 @@ There are none.
 To demonstrate understanding of the assignment.
 
 ## Visuals
-![This is a screenshot/demo of the project.](Insert Picture or Link Info Here)
+![This is a screenshot/demo of the project.](./public/screenshot.png)
 
 ## Tests
 
