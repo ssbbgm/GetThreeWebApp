@@ -7,10 +7,15 @@ No license in place
 ## Description
 The application does the following: 1) Accept a POST request to the route “/test”, which accepts one argument “string_to_cut” & 2) Return a JSON object with the key “return_string” and a string containing every third letter from the original string.
 
+## Deployed Application
+
+https://boiling-waters-84330.herokuapp.com/
+
 ## Table of Contents
 
 - [License](#license)
 - [Description](#description)
+- [Deployed Application](#deployed-application)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Visuals](#visuals)
@@ -43,6 +48,4 @@ Github: [ssbbgm](http://github.com/ssbbgm)
 
 Email: ssburto825@gmail.com
 
-## Deployed Application
 
-https://boiling-waters-84330.herokuapp.com/
